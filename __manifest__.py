@@ -26,7 +26,7 @@
 {
     "name": "Website Smartbuttons",
     "summary": "Add Smartbuttons tag in Website form",
-    "version": "1.0",
+    "version": "14.0.1.1.0",
 
     "description": """
 Add Smartbuttons tag in Website form.

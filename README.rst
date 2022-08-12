@@ -1,3 +1,8 @@
+.. image:: https://img.shields.io/github/license/monemasrl/website_smartbuttons
+   :target: https://github.com/monemasrl/website_smartbuttons/blob/14.0/LICENSE
+   :alt: License: MIT
+
+
 ============================
 [14.0] Website Smart Buttons
 ============================
